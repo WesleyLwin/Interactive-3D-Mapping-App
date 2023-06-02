@@ -1,0 +1,2 @@
+# Notepad
+Language: Python
